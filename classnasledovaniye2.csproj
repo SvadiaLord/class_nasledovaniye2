@@ -43,12 +43,28 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Core\Account.cs" />
+    <Compile Include="Core\A-Animal.cs" />
+    <Compile Include="Core\A-Account.cs" />
+    <Compile Include="Core\A-Building.cs" />
+    <Compile Include="Core\A-Shape.cs" />
+    <Compile Include="Core\A-Task.cs" />
+    <Compile Include="Core\A-User.cs" />
+    <Compile Include="Core\ApartamentHouse.cs" />
+    <Compile Include="Core\Cat.cs" />
     <Compile Include="Core\CheckingAccount.cs" />
-    <Compile Include="Core\Employee.cs" />
+    <Compile Include="Core\A-Employee.cs" />
+    <Compile Include="Core\Circle.cs" />
+    <Compile Include="Core\DatabaseTask.cs" />
+    <Compile Include="Core\Dog.cs" />
+    <Compile Include="Core\EmailTask.cs" />
     <Compile Include="Core\FullTimeEmployee.cs" />
+    <Compile Include="Core\House.cs" />
+    <Compile Include="Core\OfficeBuilding.cs" />
     <Compile Include="Core\PartTimeEmployee.cs" />
+    <Compile Include="Core\RegularUser.cs" />
     <Compile Include="Core\SavingsAccount.cs" />
+    <Compile Include="Core\Square.cs" />
+    <Compile Include="Core\UserAdmin.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

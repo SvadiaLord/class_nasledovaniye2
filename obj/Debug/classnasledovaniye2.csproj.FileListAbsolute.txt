@@ -5,3 +5,11 @@ C:\Users\Пользователь\source\repos\classnasledovaniye2\obj\Debug\cla
 C:\Users\Пользователь\source\repos\classnasledovaniye2\obj\Debug\classnasledovaniye2.csproj.CoreCompileInputs.cache
 C:\Users\Пользователь\source\repos\classnasledovaniye2\obj\Debug\classnasledovaniye2.exe
 C:\Users\Пользователь\source\repos\classnasledovaniye2\obj\Debug\classnasledovaniye2.pdb
+C:\Users\dmitr\Source\Repos\class_nasledovaniye2\bin\Debug\classnasledovaniye2.exe.config
+C:\Users\dmitr\Source\Repos\class_nasledovaniye2\bin\Debug\classnasledovaniye2.exe
+C:\Users\dmitr\Source\Repos\class_nasledovaniye2\bin\Debug\classnasledovaniye2.pdb
+C:\Users\dmitr\Source\Repos\class_nasledovaniye2\obj\Debug\classnasledovaniye2.csproj.AssemblyReference.cache
+C:\Users\dmitr\Source\Repos\class_nasledovaniye2\obj\Debug\classnasledovaniye2.csproj.SuggestedBindingRedirects.cache
+C:\Users\dmitr\Source\Repos\class_nasledovaniye2\obj\Debug\classnasledovaniye2.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\Source\Repos\class_nasledovaniye2\obj\Debug\classnasledovaniye2.exe
+C:\Users\dmitr\Source\Repos\class_nasledovaniye2\obj\Debug\classnasledovaniye2.pdb
